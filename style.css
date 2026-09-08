@@ -144,28 +144,6 @@ img {
 .hero-image:hover img {
     transform: scale(1.04);
 }
-
-.social-icons {
-    position: absolute;
-    right: 25px;
-    top: 50%;
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-}
-
-.social-icons a {
-    color: white;
-    font-size: 11px;
-    transition: 0.3s;
-}
-
-.social-icons a:hover {
-    color: #d64225;
-    transform: translateX(-3px);
-}
-
-
 .scroll-button {
     position: absolute;
     right: 18px;
@@ -226,7 +204,7 @@ img {
 .about-content p {
     margin-bottom: 20px;
     max-width: 2000px;
-    font-size: 33px;
+    font-size: 30px;
 }
 
 .about-details {
